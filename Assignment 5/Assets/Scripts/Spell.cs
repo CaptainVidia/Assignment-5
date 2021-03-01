@@ -9,7 +9,7 @@ using System.Collections;
 public class Spell : Entity
 {
 
-    string Type = "Spell";
+    string Type = "Spell (BLUE)";
     string Ability = "activate or empower monster attacks and defenses";
     int Cost = 5;
     int numSet = 2;

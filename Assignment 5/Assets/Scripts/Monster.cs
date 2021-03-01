@@ -9,8 +9,8 @@ using System.Collections;
 public class Monster : Entity
 {
 
-    string Type = "Mosnter";
-    string Ability = "Mosnter to attack other players or player's mosnters";
+    string Type = "Monster (RED)";
+    string Ability = "Monster to attack other players or player's mosnters";
     int Cost = 5;
     int numSet = 1;
 

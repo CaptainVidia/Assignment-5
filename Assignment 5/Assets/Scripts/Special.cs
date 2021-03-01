@@ -8,7 +8,7 @@ using System.Collections;
 
 public class Special : Entity
 {
-    string Type = "Special";
+    string Type = "Special (GREEN)";
     string Ability = "activate mosnter special ability";
     int Cost = 10;
     int numSet = 3;
